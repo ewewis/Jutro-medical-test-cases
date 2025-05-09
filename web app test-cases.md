@@ -1,5 +1,5 @@
 # Test Cases – Login Functionality
-**Tested application:** Mobile app [Jutro Medical](https://doctor.st.jutromedical.com/)  
+**Tested application:** Web app [Jutro Medical](https://doctor.st.jutromedical.com/)  
 **Author:** Ewelina Wisińska  
 **Date:** 2025-04-05 
 
