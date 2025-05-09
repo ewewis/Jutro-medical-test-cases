@@ -1,6 +1,6 @@
 # Jutro-medical-test-cases
 
-# 📋 Test Cases – Web & Mobile Application
+## 📋 Test Cases – Web & Mobile Application
 
 This repository contains a set of manually written test cases for a login and account registration flow, based on real-life scenarios tested on both a **web application** and a **mobile application**.
 
