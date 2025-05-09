@@ -1,5 +1,5 @@
 # Test Cases – Login and Account Creation Panel  
-**Tested application:** Mobile app [Jutro Medical](https://doctor.st.jutromedical.com/)  
+**Tested application:** Mobile app [Jutro Medical](https://play.google.com/store/apps/details?id=com.jutro.jutro&hl=pl)  
 **Author:** Ewelina Wisińska  
 **Date:** 2025-04-05  
 
