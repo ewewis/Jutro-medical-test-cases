@@ -48,7 +48,7 @@ Each test case includes:
 1. **Clone this repository** to your local machine:
    ```bash
    git clone https://github.com/yourusername/test-cases.git
-2. **Browse the test cases**: Open the ```mobile app test-cases.md or ```web app test-cases.md file to view detailed test scenarios.
+2. **Browse the test cases**: Open the ```mobile app test-cases.md``` or ```web app test-cases.md``` file to view detailed test scenarios.
 3. **Execute the tests**: You can implement these test cases using testing frameworks like Selenium (for web), Appium (for mobile), or any other framework of your choice. These test cases are written in a readable format and can be easily adapted for automation.
 
 ## 💡 Notes
